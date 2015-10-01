@@ -6,7 +6,7 @@ A test of Docker with Spring Boot, following https://spring.io/guides/gs/spring-
   1. First of all, install [Docker](https://docs.docker.com/installation) and check it is running
   2. If not started, start the service running
 
-      $ sudo service docker start
+    $ sudo service docker start
 
 ## Build and test
 
